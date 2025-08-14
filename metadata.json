@@ -1,0 +1,5 @@
+{
+  "name": "MoodMix",
+  "description": "An AI-powered audio processor to transform your sound and match any mood or environment.",
+  "requestFramePermissions": []
+}
